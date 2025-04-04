@@ -1,1 +1,1 @@
-#Sparky AI (Image Alt Tags)
+#Sparky AI (Media Image)

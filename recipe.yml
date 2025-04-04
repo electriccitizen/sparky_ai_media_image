@@ -1,0 +1,10 @@
+name: 'Sparky AI Media Image'
+description: 'Install and configure base requirements for AI image generation.'
+type: 'Site'
+
+install:
+  - ai
+  - ai_media_image
+config:
+  import:
+    ai_media_image: '*'
